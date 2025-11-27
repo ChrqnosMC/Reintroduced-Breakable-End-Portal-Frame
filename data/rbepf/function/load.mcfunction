@@ -1,0 +1,1 @@
+tellraw @a ["",{"text":"Reintroduced Breakable End Portal Frame datapack has been reloaded"}]
